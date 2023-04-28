@@ -8,10 +8,7 @@
         <img aling="center" src="https://tenor.com/pt-BR/view/rolling-cat-cat-rolling-rainbow-gif-22772940/h1.gif" width="40" height="40">
         <img aling="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
         <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  </div>
-    
-      
-![Snake animation](https://github.com/JuanPinheiroFIAP/JuanPinheiroFIAP/blob/output/github-contribution-grid-snake.svg)
+   </div>
      
               
       
