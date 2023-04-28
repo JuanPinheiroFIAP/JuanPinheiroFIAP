@@ -35,4 +35,4 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
               
-![Snake animation](https://github.com/JuanPinheieroFIAP/JuanPinheieroFIAP/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/JuanPinheiroFIAP/JuanPinheiroFIAP/blob/output/github-contribution-grid-snake.svg)
