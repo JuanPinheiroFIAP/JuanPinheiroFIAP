@@ -1,7 +1,7 @@
    ## Olá Bem Vindo ao meu perfil
    
    <div>
-   <p>Sou estudante de programação</p>
+   <p>Apenas codando</p>
    </div>
    
    ##
