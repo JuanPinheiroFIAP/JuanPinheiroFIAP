@@ -5,11 +5,11 @@
    </div>
    
    ##
-      
+    
    <div>
         <a href="https://github.com/JuanPinheiroFIAP">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPinheiroFIAP&layout=compact&langs_count=7&theme=codeSTACKr"/>
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuanPinheiroFIAP&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JuanPinheiroFIAP&show_icons=true&theme=codeSTACKr"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPinheiroFIAP&show_icons=true&theme=codeSTACKr"/>
    </div>
    
    ## 
