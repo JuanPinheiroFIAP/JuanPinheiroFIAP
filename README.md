@@ -30,4 +30,4 @@
    
    ##
               
-   ![Snake animation](https://github.com/JuanPinheiroFIAP/JuanPinheiroFIAP/blob/output/github-contribution-grid-snake.svg)
+ 
