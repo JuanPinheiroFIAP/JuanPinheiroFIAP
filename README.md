@@ -6,8 +6,8 @@
    
    ##
     
-   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPinheiroFIAP&show_icons=true&theme=codeSTACKr" width="400" />
+   <div >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPinheiroFIAP&show_icons=true&theme=codeSTACKr" width="300" />
    </div>
 
    ## 
