@@ -6,19 +6,17 @@
    
    ##
     
-   <div>
-        <a href="https://github.com/JuanPinheiroFIAP">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanPinheiroFIAP&show_icons=true&theme=codeSTACKr"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPinheiroFIAP&show_icons=true&theme=codeSTACKr"/>
+   <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPinheiroFIAP&show_icons=true&theme=codeSTACKr" width="400" />
    </div>
-   
+
    ## 
  
   <div>
         <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"   width="40" height="40" /> 
         <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
         <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"       width="40" height="40"/>
-        <img align="right"  src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" height="150" style="border-radius:50px;"/>
+        
   </div> 
    
    ##
