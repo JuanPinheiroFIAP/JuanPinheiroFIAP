@@ -16,7 +16,6 @@
 - 🧠 Focused on Backend, Data and AI Engineering
 - 📊 Experience with data analysis and automation
 - 🚀 Building real-world projects with Docker, CI/CD and Cloud
-- 🏦 Currently in hiring process for Itaú
 
 ---
 
