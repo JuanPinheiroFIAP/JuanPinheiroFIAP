@@ -50,7 +50,7 @@ End-to-end data pipeline architected and built at Silicone Center, consolidating
 - 📈 Executive dashboards in Power BI (DirectQuery)
 - 📡 Full observability: Grafana, Prometheus, structured logging
 
-[🔗 View Repository](#)
+[🔗 View Repository](https://github.com/JuanPinheiroFIAP/data-lake-warehouse-pipeline)
 
 ### 💰 Lory — Personal Finance AI Assistant
 
